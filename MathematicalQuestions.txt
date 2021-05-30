@@ -1,0 +1,30 @@
+easy || A unidade "grama" serve para medir? || massa >> true || capacidade >> false || volume >> false || comprimento >> false
+easy || Em Matemática, arredondar significa? || fazer uma aproximação do valor de um número >> true ||  transformar um quadrado em círculo >> false || transformar um círculo em uma elipse >> false ||  multiplicar um número pelo seu sucessor >> false
+easy || o número ímpar... || não é divisível por 2 >> true || termina com 1 ou 5 >> false || é múltiplo de 2 >> false || inicia por 1, 3 ou 5 >> false
+easy || A operação inversa da potenciação é a: ||  radiciação >> true || subtração >> false ||  divisão >> false ||  adição >> false
+easy || Se uma casa tem quatro lados e em cada canto tem um gato e cada gato vê três gatos, quantos gatos há na casa? || 4 >> true || 8 >> false || 10 >> false || 12 >> false
+easy || Leandro tem 40 balas chupou 12 e deu 10 para sua irmã. Com quantas balas ele ficou? || 18 >> true || 12 >> false || 0 >> false || 40 >> false
+easy || Eu tenho R$ 15000,00 gastei R$ 450,00. Quanto sobrou ? || 14550 >> true || 14500 >> false || 15000 >> false || 14555 >> false
+easy || Pedro tem 30 anos e tem mais três irmãos: Bianca de 27, Victor de 23 e Alex de 18. Qual a diferença de idade entre Pedro e irmão caçula? || 12 >> true || 11 >> false || 10 >> false || 13 >> false
+easy || Se eu tenho R$ 20.000,00 e gastei R$3.300,00 quanto sobrou || 16700 >> true || 16600 >> false || 16800 >> false || 16300 >> false
+easy || Quanto é o dobro de 1500? || 3000 >> true || 1500 >> false || 750 >> false || 9000 >> false
+normal || Quantos números 1 eu tenho de 1 até 191? || 132 >> true || 133 >> false || 131 >> false || 140 >> false
+normal || Quanto é o resultado dessa conta 6+2x(4-3)? || 8 >> true || 7 >> false || 6 >> false || 9 >> false
+normal || Quanto é 9²x6? || 486 >> true || 487 >> false || 485 >> false || 488 >> false
+normal || Quanto é 8x2+7²? || 65 >> true || 66 >> false || 64 >> false || 67 >> false
+normal || Quanto é (+3)+(+5)+(-6)? || +2 >> true || +1 >> false || 0 >> false || -2 >> false
+normal || Quanto é (+8)+(-6)+(-4)? || -2 >> true || -1 >> false || 0 >> false || +2 >> false
+normal || Quanto é (+3)-(+5)-(-10)? || +8 >> true || -8 >> false || 0 >> false || +88 >> false
+normal || Quanto é (+2)+(-6)-(+5)+(+2)? || -7 >> true || +7 >> false || -77 >> false || 0 >> false
+normal || Quanto é +5+(+3-2)? || +6 >> true || -6 >> false || 0 >> false || 66 >> false
+normal || Quanto é +8+(-5+2)? || +5 >> true || -5 >> false || 0 >> false || 55 >> false
+hard || Quanto é +15+(-23+12)? || +4 >> true || -4 >> false || 0 >> false || 44 >> false
+hard || Quanto é -9-[-3+(-2+1)]? || -5 >> true || +5 >> false || 0 >> false || +6 >> false
+hard || Quanto é -1-{-2-[-5+(15-3)]}? || +8 >> true || -8 >> false || -7 >> false || +7 >> false
+hard || Quanto é 12% de 250? || 30 >> true || 32 >> false || 50 >> false || 12 >> false
+hard || Marcos tirou no primeiro bimestre de português média 8,0, no segundo 6,0, no terceiro 10,0 e no quarto 2,0. Qual foi sua média anual? || 6,5 >> true || 6,0 >> false || 5,5 >> false || 7,0 >> false
+hard || Quanto e 30% 450? || 135 >> true || 130 >> false || 140 >> false || 145 >> false
+hard || Quanto é 50% de 400.002? || 200.001 >> true || 200.000 >> false || 199.999 >> false || 199.998 >> false
+hard || Quanto é 98% de 1785? || 1749,3 >> true || 1749,0 >> false || 1748,9 >> false || 1899,9 >> false
+hard || Quanto é 24% de 254? || 60.96 >> true || 60.99 >> false || 60.01 >> false || 60.11 >> false
+hard || Seja a função f definida por f(x) = 3x – 2, determine o valor de f(5) + f(0): || 11 >> true || 10 >> false || 9 >> false || 12 >> false

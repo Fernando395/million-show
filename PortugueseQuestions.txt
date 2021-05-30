@@ -1,0 +1,30 @@
+easy || Complete a frase "Eu _______ muitos exercícios durante o dia" || faço >> true || fasso >> false || faco >> false || faso >> false
+easy || Como se responde a pergunta "Você pode abrir a janela?" || claro que posso >> true || claro que pozo >> false || claro que poço >> false || claro que poso >> false
+easy || Complete a frase "Gabriel e os irmãos ______ os primos todos os anos" || veem >> true || vêem >> false || vem >> false || vêm >> false
+easy || Complete a frase "Você escuta som no carro Tiago?" || sim ouço >> true || sim ousso >> false || sim ouso >> false || sim osso >> false
+easy || Complete a frase "Lucas _____ muitos livros" || lê >> true || lee >> false || le >> false || lêe >> false
+easy || Identifique o substantivo primitivo || bagunça >> true || sensual >> false || sujeira >> false || ansioso >> false
+easy || Qual das frases é nominal? || que noites difíceis >> true || o sol surgiu radiante >> false || ninguém viu o acidente >> false || ele é um bom professor >> false
+easy || Qual das frases esta na voz passiva? || o carro foi desenvolvido por Leonardo >> true || o menino quebrou o copo >> false || o professor é muito legal >> false || você esta fazendo o teste >> false
+easy || Marque a palavra proparoxítona || Árvore >> true || Escola >> false || Funil >> false || Coração >> false
+easy || Complete a frase "Pelé foi o melhor jogador de futebol de todos os tempos" || com certeza >> true || comcerteza >> false || concerteza >> false || conserteza >> false
+normal || Indique qual o tipo de verbo na frase "Olavo Bilac e Guimarães poetas brasileiros eram bons amigos" || de ligação >> true || transitivo >> false || transitivo direto >> false || transitivo direto e indireto >> false
+normal || Na frase "Chorei um rio de lágrimas" temos qual figura de linguagem || hipérbole >> true || pleonasmo >> false || catacrese >> false || metáfora >> false
+normal || Na frase "A casa de palha de Felipe, O fogo comeu rapidamente" quem é o sujeito? || o fogo >> true || a casa >> false || felipe >> false || a casa de palha >> false
+normal || Na frase "Brasilia CAPITAL DO BRASIL é uma cidade linda" o termo em destaque é? || aposto >> true || sujeito >> false || predicado >> false || vocativo >> false
+normal || Ele sempre resolve os problemas com bastante...... || discrição >> true || descrição >> false || todas as alternativas >> false || discreção >> false
+normal || Camila falou que queria____exemplos || mais >> true || mas >> false || maiz >> false || más >> false
+normal || o empregado aspirava_____cargo de gerente || ao >> true || o >> false || a >> false || a o >> false
+normal || vou ao mercado comprar algo pra___comer || eu >> true || todas alternativas >> false || nos >> false || min >> false
+normal || ___8 horas || são >> true || é >> false || todas alternativas >> false || es >> false
+normal || qual significado de supérfluo || desnecessário >> true || grande >> false || pequeno >> false || bom >> false
+hard || "Muitos viajaram POREM POUCOS CONHECEM O BRASIL" a oração em destaque pode ser classificada como? || oração coordenada sindética adversativa >> true || oração assindética >> false || oração explicativa >> false || oração coordenada aditiva >> false
+hard || A palavra "riacho" é formada por qual processo de formação de palavras? || derivação sufixal >> true || derivação prefixal >> false || derivação regressiva >> false || composição por justa posição >> false
+hard || prefiro ler___ver tv || ou >> true || e >> false || a >> false || do que >> false
+hard || ele não tem____para cozinhar || jeito >> true || geito >> false || seio >> false || todas alternativas >> false
+hard || preciso levar o meu carro para..... || consertar >> true || concertar >> false || todas alternativas >> false || conssertar >> false
+hard || ele esta trabalhando..... || mal >> true || mau >> false || mao >> false || mão >> false
+hard || Felipe assistiu_____jogo de futebol na tv || ao >> true || o >> false || ou >> false || a o >> false
+hard || aquele filme vai ser exibido na_____18hrs || sessão >> true || seção >> false || sesção >> false || cesão >> false
+hard || qual o significado de nostalgia? || saudade >> true || magia negra >> false || nome de remédio >> false || valor >> false
+hard || ela fala.... || demais >> true || de mais >> false || di mais >> false || todas anteriores >> false

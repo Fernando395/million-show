@@ -1,0 +1,30 @@
+easy || Como se pergunta o nome de uma pessoa em inglês? || Where are you from >> false || What’s your name >> true || How old are you >> false || stop what >> false
+easy || como se pergunta como foi seu dia em inglês? || What’s the matter? >> false || What do you do? >> false || What’s up? >> false || How was your day? >> true
+easy || Qual a tradução de "Good Morning"? || Bom dia >> true || Boa noite >> false || Boa tarde >> false || Muito bem >> false
+easy || Qual a tradução de "How old are you?"? || Qual seu nome? >> false || Quantos anos você tem? >> true || Aonde você esta? >> false || Onde você quer ir? >> false
+easy || Bombeiro em inglês se diz? || Fireman >> true || Bomberman >> false || Extinguisher >> false || Eraser >> false
+easy || Atores em inglês se diz? || Actress >> false || Author >> false || Actors >> true || Self >> false
+easy || A palavra Quarto em inglês fica de qual forma? || Room >> true || Door >> false || Window >> false || Floor >> false
+easy || A palavra Caminhão em inglês fica de qual forma? || Truck >> true || Pickup >> false || Big car >> false || Big truck >> false
+easy || A palavra Tradutor em inglês fica de qual forma? || Translator >> true || Translation >> false || Translate >> false || Translating >> false
+easy || Na frase "Two and a half Men" se esta dizendo? || Dois homens e uma criança >> false || Dois homens e um pequeno >> false || Dois homens e meio >> true || Dois homens e mais um >> false
+normal || Qual a forma correta de dizer "LENTAMENTE" em inglês? || Slowly >> true || Slow >> false || Slower >> false || Lowered >> false
+normal || Como se traduziria a frase "Por sua causa" em inglês? || Because of you >> true || because of your smile >> false || because of your go >> false || because of your >> false
+normal || O que significa "I am going to travel"? || Eu vou viajar >> true || Eu vou namorar >> false || Eu vou me casar >> false || Eu vou inventar >> false
+normal || Como perguntar o número de telefone de alguém? || What's your Telephone number? >> true || what's your tele >> false || what's your telephone >> false || what's your occupation >> false
+normal || Qual a tradução da palavra Amazing? || Incrível >> true || Invencível >> false || Amazona >> false || Armazena >> false
+normal || Qual a tradução da palavra Cooler? || Resfriador >> true || cochão >> false || Álcool >> false || Alicate >> false
+normal || Qual a tradução da frase Long Time? || Muito tempo >> true || longo alcance >> false || longo relógio >> false || Muitas horas >> false
+normal || Qual a tradução da palavra Divine ? || Divino >> true || Devaneio >> false || Delírio >> false || Dentista >> false
+normal || Qual a tradução da frase don't please ? || Não por favor >> true || Por favor não >> false || Por gentileza não >> false || Por favor sim >> false
+normal || Qual a tradução da frase dust in the wind ? || Poeira no vento >> true || Poeira na brisa >> false || Diamante no vento >> false || Destino do vento >> false
+hard || Complete a frase I have a brother. __________ name is John. || Her >> true || Hers >> false || Him >> false || His >> false
+hard || Complete a frase He lives __________ England. || at >> true || is >> false || in >> false || from >> false
+hard || Complete a frase I am __________ my lunch now. || eating >> true || eat >> false || eaten >> false || ate >> false
+hard || Complete a frase This is my__________ car || Wife >> true || Wives >> false || Wife´s >> false || wins >> false
+hard || Complete a frase He has been to the United States _________ times. || Much >> true || Many >> false || A Short >> false || Lite >> false
+hard || Na frase, "I wanna go with you", o que WANNA significa? || Quero >> true || Eu >> false || Ir >> false || Com >> false
+hard || Como se diz PREDIZER na língua inglesa? || Foretell >> true || Tell >> false || Guess >> false || Say >> false
+hard || O que a palavra FIND OUT significa? || Descobrir >> true || Desalmado >> false || desarmar >> false || desistir >> false
+hard || Na frase, "This time I'm gonna study harder", o que HARDER significa? || Mais >> true || Menos >> false || Mesma >> false || Mesmo >> false
+hard || O que a expressão which one significa? || O que >> true || Que >> false || Quando >> false || Onde >> false

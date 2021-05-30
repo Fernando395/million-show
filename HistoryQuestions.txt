@@ -1,0 +1,30 @@
+easy || Quem descobriu o Brasil? || Pedro Alvares Cabral >> true || Tiradentes >> false || Dom Pedro Segundo >> false || Marechal Teodoro >> false
+easy || quem inventou a lampada? || Thomas Edison >> true || Nikola Tesla >> false || Hiram maxim >> false || Leonel poling >> false
+easy || A que período corresponde a pré Historia? Anterior a invenção da escrita >> true || Após a invenção da escrita >> false || Após os dinossauros >> false || na idade media >> false
+easy || Onde os primeiros grupos de Humanos se abrigavam? || Grutas e cavernas >> true || casas >> false || campos >> false || na agua >> false
+easy || Qual o nome da sua pátria? || Brasil >> true || Portugal >> false || pernambuco >> false Rio grande do sul >> false
+easy || Quais cidades já foram capital do Brasil? || Salvador e Rio de janeiro >> true || São paulo e cuiaba >> false || Porto alegre e Minas gerais >> false || Belo horizonte e Recife >> false
+easy || Quando o Brasil foi descoberto? || 1500 >> true || 1700 >> false || 1455 >> false 1350 >> false
+easy || Quem foram os primeiros habitantes do brasil? || índios >> true || Persas >> false || incas >> false || Macacos >> false
+easy || Qual desses nomes está associado à Guerra de Canudos? || Tiradentes >> false || Lampião >> true || Papai noel >> false || Bolsonaro >> false
+easy || Quem foi o primeiro imperador do Brasil? || Dom Pedro I >> false || Pedro Alvares Cabral >> Dom Pedro II >> false || Tiradentes
+normal || Quando começou a Idade Média? || século V >> true || século XV >> false || século XX >> false || século VII >> false
+normal || Qual o nome do rio que banha o Egito? || Tigre >> false || nilo >> true || despedida >> false || iguaçu >> false
+normal || Para que servia as pirâmides? || enterrar os faraós >> true || enfeitar o deserto >> false || guardar comida >> false || salão de festas >> false
+normal || Como era feito o papel egípcio? || celulose >> false || papiro >> true || argila >> false || palha >> false
+normal || Em qual ano se iniciou a primeira guerra mundial? || 1900 >> false || 1914 >> true || 1918 >> false || 1927 >> false
+normal || Na idade dos metais, qual era o resultado da mistura de cobre e estanho? || bronze >> true || ferro >> false || alumínio >> false || ouro >> false
+normal || Em que período o fogo foi descoberto? || Paleolítico >> true || Mesopotaneo >> false || Idade media >> false || tempos modernos >> false
+normal || Quais os 3 deuses principais da mitologia grega? || Zeus, Athena e Hera >> false || Zeus Athena e Poseidon >> true || Gaia, Cronos e Atlas >> false || Perseu, Hércules e Annabeth
+normal || Em roma existia || rei >> false || imperador >> true || presidente >> false || governante >> false
+normal || Qual país a Alemanha nazista invadiu primeiro na segunda guerra mundial? || Polônia >> true || Brasil >> false || Marrocos >> false || Itália >> false
+hard || Quando aconteceu a Revolução Russa? || 1917 >> true || 1927 >> false || 1945 >> false || 1989 >> false
+hard || Quantos anos durou a Guerra dos Cem Anos? || 116 anos >> true || 120 anos >> false || 100 anos >> false || 99 anos >> false
+hard || Hitler foi eleito chanceler alemão em um plebiscito com qual porcentagem dos votos? || 95% >> true || 100% >> false || 99% >> false || 51% >> false
+hard || Qual foi o último país da América do Sul a acabar com a escravidão? || Brasil >> true || Argentina >> false || Chile >> false || Peru >> false
+hard || Onde foram lançadas as bombas nucleares? Hiroshima e Nagasaki >> true || Tokyo >> false || Moscow >> false || Roma >> false
+hard || Em que ano aconteceu a invasão da Normandia(dia D)? || 1944 >> true || 1977 >> false || 1994 >> false || 2005 >> false
+hard || quem venceu a segunda guerra mundial? || Aliados >> true || Alemanha >> false || Itália >> false || Brasil >> false
+hard || Para qual lugar os titãs foram após serem derrotados pelos deuses do Olimpo? || tártaro >> true || limbo >> false || sub mundo >> false || inferno >> false
+hard || Steve Jobs fundou o que? || Apple >> true || Facebook >> false || microsoft >> false || Google >> false
+hard || Marie Curie descobriu qual elementos da tabela periódica? || radio e polónio >> true || fosforo e polónio >> false || radio e fosforo >> false || urânio e titânio >> false

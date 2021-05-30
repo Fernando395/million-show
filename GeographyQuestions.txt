@@ -1,0 +1,30 @@
+easy || Qual a capital da Itália? || Milão >> false || Turin >> false || Roma >> true || sicília >> false
+easy || Qual pais faz fronteira com a cidade do vaticano? || Alemanha >> false || Portugal >> false || Itália >> true || Espanha >> false
+easy || O estado de Tocantins faz parte de qual região Brasileira? || sudeste >> false || norte >> true || centro oeste >> false || nordeste >> false
+easy || A substancia natural ou preparada consumida pelos seres vivo se chama? || economia domestica >> false || alimento >> true || intoxicação >> false || criogenia >> false
+easy || Qual é a república que tem como limites Porto rico e Haiti? || Dominicana >> true || Galeão >> false || Congo >> false || Guarani >> false
+easy || Qual a divisão natural entre Piaui e Maranhão? || Rio Parnaíba >> true || Rio Jaguaribe >> false || Rio Itaipu >> false || São Francisco >> false
+easy || El Salvador fica as margens de qual oceano? || Índico >> false || Pacífico >> true || Atlântico >> false || Glacial Ártico >> false
+easy || Qual a capital do Rio Grande do Sul? || Porto Alegre >> true || Roraima >> false || Canoas >> false || São Leopoldo >> false
+easy || Em qual america fica os EUA? || America central >> false || America do sul >> false || America do norte >> true || Nenhuma das alternativas >> false
+easy || Qual a capital do Brasil? || Acre >> false || Brasilia >> true || São Paulo >> false || Rio de Janeiro >> false
+normal || Qual desses Países não é Europeu? || Macedonia >> false || Espanha >> false || Cazaquistão >> true || Polónia >> false
+normal || O Brasil é de que continente? || America do norte >> false || America do sul >> true || America central >> false || Asia >> false
+normal || Qual desses não é ilha? || Madagascar >> false || Libia >> true || Bermudas >> false || Barbados >> false
+normal || Qual a capital da Guatemala? || Guatemala >> true || La paz >> false || São tome >> false || Porto principe >> false
+normal || Quantos países tem a América? todas juntas || 37 >> true || 38 >> false || 40 >> false || 42 >> false
+normal || Qual a capital do México? || Cidade do mexico >> true || La paz >> false || Mexicali >> false || Del mexico >> false
+normal || Qual desses países não é africano? || Arabia saudita >> true || Egito >> false || Madagascar >> false || Ruanda >> false
+normal || Qual destas cidades não está localizada no Piauí? || Teresina >> false || Paraiba >> false || picos >> true || Piripiri >> false
+normal || Oslo é a capital e maior cidade da... || Noruega >> true || Turquia >> false || Russia >> false || Grécia >> false
+normal || É um país da América do Sul que, além da parte continental, possui diversas ilhas no Mar do Caribe: || Bolivia >> true || Brasil >> false || Argentina >> false || Peru >> false
+hard || Além da Turquia, qual outro país está presente em dois continentes? || Russia >> true || Brasil >> false || Portugal >> false || Polónia >> false
+hard || Qual a base do sistema capitalista? || Lucro >> true || Desordem >> false || Prosperidade >> false || Igualdade >> false
+hard || Quais dos países listados abaixo fazem parte da Escandinávia? || Dinamarca, Suécia e Noruega >> true || França, Espanha e Inglaterra >> false || Ucrânia, Romênia e Bielorússia >> false || Polônia, Ucrânia e Alemanha >> false
+hard || Dourados é um município brasileiro localizado no estado de: || Mato grosso do sul >> true || Minas gerais >> false || Rio grande do sul >> false || São paulo >> false
+hard || Com qual desses países o Brasil NÃO faz fronteira? || Chile >> true || Venezuela >> false || Colombia >> false || Argentina >> false
+hard || Qual é a distância entre os EUA e a Rússia? || 8895 km >> true || 8899 km >> false || 8990 km >> false || 9870 km >> false
+hard || Se você pegar um barco na costa atlântica do Chile e navegar sempre em linha reta, chega aonde? || Chile >> true || Nova zelandia >> false || Brasil >> false || Roma >> false
+hard || Qual dessas duplas de países é separada pelo maior fuso horário? || Samoa Taiti >> true || Chile Japão >> false || Portugal Coreia do norte >> false || Africa do sul Nova zelandia >> false
+hard || Quantos países existem no mundo? || 193 >> true || 195 >> false || 199 >> false || 205 >> false
+hard || Qual dessas cidades fica mais perto de Recife? || Uruguaiana >> false || Rio branco >> false || Dacar >> false || Conacri >> true

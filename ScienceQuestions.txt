@@ -1,0 +1,30 @@
+easy || O tipo de alimentação de uma determinada espécie é um exemplo de: || nicho ecológico >> true || biosfera >> false || habitat >> false || matilha >> false
+easy || O olho humano pode ser de diversas cores (verde, azul, castanho, preto, etc). Como se chama essa parte do olho? || Íris >> true || cristalino >> false || globo >> false || pálpebra >> false
+easy || Relação harmonica onde as duas espécies são beneficiadas e uma não pode viver sem a outra: || mutualismo >> true || sociedade >> false || comercialismo >> false || economica >> false
+easy || Exemplo de interação harmônica onde todos são da mesma espécie e que todos cooperam para suas sobrevivências: || sociedade >> true || mutualismo >> false || mercantilismo >> false || biodiversidade >> false
+easy || Exemplos de  apenas de relações desarmonicas: || parasitismo,canibalismo,amensalismo >> true || competição, mutualismo, predatismo >> false || amensalismo, coensalismo, predatismo >> false || paratismo, redatismo, mutualismo >> false
+easy || Organismos que produzem seu próprio alimento... || autótrofos >> true || heterótrofos >> false || consumidores >> false || produtores >> false
+easy || Cadeia alimentar é... || conjunto de relações alimentares entre as espécies >> true || passagem de energia de um nível trófico para outro >> false || relações intraespecíficas >> false || relações interespecíficas >> false
+easy || Quando a matéria passa do estado sólido direto para o líquido é um exemplo de... || sublimação >> true || fusão >> false || solidificação >> false || vaporização >> false
+easy || São propriedades da matéria: || inércia, extensão, impenetrabilidade >> true || massa,impenetrabilidade,gravidade >> false || extensão, massa, peso >> false || impenetrabilidade, peso, massa >> false
+easy || Elasticidade é a  || capacidade da matéria de voltar ao seu estado inicial >> true || capacidade da matéria se dividir >> false || capacidade de resistir a choques >> false || é a quantidade de matéria que existe em um corpo >> false
+normal || O tipo de alimentação de uma determinada espécie é um exemplo de: || nicho ecológico >> true || biosfera >> false || habitat >> false || matilha >> false
+normal || O olho humano pode ser de diversas cores (verde, azul, castanho, preto, etc). Como se chama essa parte do olho? || Íris >> true || cristalino >> false || globo >> false || pálpebra >> false
+normal || Relação harmonica onde as duas espécies são beneficiadas e uma não pode viver sem a outra: || mutualismo >> true || sociedade >> false || comercialismo >> false || economica >> false
+normal || Exemplo de interação harmônica onde todos são da mesma espécie e que todos cooperam para suas sobrevivências: || sociedade >> true || mutualismo >> false || mercantilismo >> false || biodiversidade >> false
+normal || Exemplos de  apenas de relações desarmonicas: || parasitismo,canibalismo,amensalismo >> true || competição, mutualismo, predatismo >> false || amensalismo, coensalismo, predatismo >> false || paratismo, redatismo, mutualismo >> false
+normal || Organismos que produzem seu próprio alimento... || autótrofos >> true || heterótrofos >> false || consumidores >> false || produtores >> false
+normal || Cadeia alimentar é... || conjunto de relações alimentares entre as espécies >> true || passagem de energia de um nível trófico para outro >> false || relações intraespecíficas >> false || relações interespecíficas >> false
+normal || Quando a matéria passa do estado sólido direto para o líquido é um exemplo de... || sublimação >> true || fusão >> false || solidificação >> false || vaporização >> false
+normal || São propriedades da matéria: || inércia, extensão, impenetrabilidade >> true || massa,impenetrabilidade,gravidade >> false || extensão, massa, peso >> false || impenetrabilidade, peso, massa >> false
+normal || Elasticidade é a  || capacidade da matéria de voltar ao seu estado inicial >> true || capacidade da matéria se dividir >> false || capacidade de resistir a choques >> false || é a quantidade de matéria que existe em um corpo >> false
+hard || O tipo de alimentação de uma determinada espécie é um exemplo de: || nicho ecológico >> true || biosfera >> false || habitat >> false || matilha >> false
+hard || O olho humano pode ser de diversas cores (verde, azul, castanho, preto, etc). Como se chama essa parte do olho? || Íris >> true || cristalino >> false || globo >> false || pálpebra >> false
+hard || Relação harmonica onde as duas espécies são beneficiadas e uma não pode viver sem a outra: || mutualismo >> true || sociedade >> false || comercialismo >> false || economica >> false
+hard || Exemplo de interação harmônica onde todos são da mesma espécie e que todos cooperam para suas sobrevivências: || sociedade >> true || mutualismo >> false || mercantilismo >> false || biodiversidade >> false
+hard || Exemplos de  apenas de relações desarmonicas: || parasitismo,canibalismo,amensalismo >> true || competição, mutualismo, predatismo >> false || amensalismo, coensalismo, predatismo >> false || paratismo, redatismo, mutualismo >> false
+hard || Organismos que produzem seu próprio alimento... || autótrofos >> true || heterótrofos >> false || consumidores >> false || produtores >> false
+hard || Cadeia alimentar é... || conjunto de relações alimentares entre as espécies >> true || passagem de energia de um nível trófico para outro >> false || relações intraespecíficas >> false || relações interespecíficas >> false
+hard || Quando a matéria passa do estado sólido direto para o líquido é um exemplo de... || sublimação >> true || fusão >> false || solidificação >> false || vaporização >> false
+hard || São propriedades da matéria: || inércia, extensão, impenetrabilidade >> true || massa,impenetrabilidade,gravidade >> false || extensão, massa, peso >> false || impenetrabilidade, peso, massa >> false
+hard || Elasticidade é a  || capacidade da matéria de voltar ao seu estado inicial >> true || capacidade da matéria se dividir >> false || capacidade de resistir a choques >> false || é a quantidade de matéria que existe em um corpo >> false
